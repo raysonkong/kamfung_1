@@ -10,7 +10,7 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h1>Kam Fung Company</h1>
     <p>Awesome Chinese Herbs</p>
-    <p>Netlify and gatsby is awesome!</p>
+    <p>Welcome to Kam Fung Company!</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
