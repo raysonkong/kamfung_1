@@ -1,5 +1,16 @@
 .products {
+	display:  flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+@media screen and (min-width:  768px) {
+	.products {
 	width:  100%;
 	display: flex;
+	flex-direction: row;
 	flex:  0 0 33%;
+	}
 }
+
+

@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Awesome Chinese Herbs</p>
     <p>Welcome to Kam Fung Company!</p>
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src="../images/product_1/sample.jpeg"
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
@@ -20,10 +20,7 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
-      <Link to="/page-2/">Go to page 2</Link> <br />
-      <Link to="/using-typescript/">Go to "Using TypeScript"</Link> <br />
-      <Link to="/using-ssr">Go to "Using SSR"</Link> <br />
-      <Link to="/using-dsg">Go to "Using DSG"</Link>
+
     </p>
   </Layout>
 )

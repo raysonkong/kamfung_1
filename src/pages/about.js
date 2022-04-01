@@ -9,6 +9,7 @@ const AboutPage = () => (
     <Seo title="About Page" />
     <h1>This is the About Page</h1>
     <p>Welcome to the About Page</p>
+
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
