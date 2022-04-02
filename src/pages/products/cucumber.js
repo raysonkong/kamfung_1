@@ -7,10 +7,10 @@ import Layout from "../../components/layout"
 import Seo from "../../components/seo"
 import '.././all_pages.css'
 
-const Abalone = () => (
+const Cucumber = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>Abalone</h1>
+    <h1>Sea Cucumber</h1>
 
    <div className="products">
        <div className="product">
@@ -18,7 +18,7 @@ const Abalone = () => (
          <h2>HKD xxx</h2>
          <StaticImage 
           src="../../images/product_1/sample.jpeg" 
-          width="300px"
+
           alt="saple"
          />
          <p>-------------------------</p>
@@ -53,4 +53,4 @@ const Abalone = () => (
   </Layout>
 )
 
-export default Abalone;
+export default Cucumber;

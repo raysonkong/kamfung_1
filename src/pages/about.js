@@ -6,9 +6,19 @@ import Seo from "../components/seo"
 
 const AboutPage = () => (
   <Layout>
-    <Seo title="About Page" />
-    <h1>This is the About Page</h1>
-    <p>Welcome to the About Page</p>
+
+    <h3>Social Media</h3>
+    <ul>
+      <li><Link to="https://www.instagram.com/kamfungcompany" target="_blank">Instagram </Link></li>
+    </ul>
+
+    <h3>Contacts</h3>
+    <ul>
+      <li>tel: 2633-2021</li>
+      <li>tel/Whatsap/WeChat: 9367-8821 </li>
+      <li>Email: kamfungcompany@gmail.com</li>
+      <li>Address: </li>
+    </ul>
 
     <Link to="/">Go back to the homepage</Link>
   </Layout>
