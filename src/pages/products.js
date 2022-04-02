@@ -1,5 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
+
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -8,10 +10,23 @@ const Products = () => (
   <Layout>
     <Seo title="products" />
 
+
+
     <h4>Payment Method</h4>
     <ul>
       <li>Visa/Mastercard/EPS/Cash</li>
     </ul>
+
+    <div>
+      <StaticImage
+        src="../images/product_1/sample.jpeg"
+        width={300}
+        quality={95}
+        formats={["auto", "webp", "avif"]}
+        alt="A Gatsby astronaut"
+        style={{ marginBottom: `1.45rem` }}
+      />
+    </div>
 
     <div>
       <h1>Products</h1>
