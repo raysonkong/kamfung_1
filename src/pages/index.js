@@ -10,6 +10,16 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h1>錦峰公司</h1>
     <h2>Kam Fung Ginseng, Seafood and Herbs</h2>
+    <div>
+      <StaticImage
+        src="../images/product_1/sample.jpeg"
+        width={300}
+        quality={95}
+        formats={["auto", "webp", "avif"]}
+        alt="A Gatsby astronaut"
+        style={{ marginBottom: `1.45rem` }}
+      />
+    </div>
     <h4>經營</h4>
     <h4>鮑參翅肚 燕窩蟲草</h4>
     <h4>參茸海味 結婚送禮</h4>
