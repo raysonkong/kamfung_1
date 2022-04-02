@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Kam Fung Company`,
+    title: `錦峰公司`,
     description: `Chinese Herbs and cool stuff.`,
     author: `@KamFungCompany`,
     siteUrl: `https://www.kamfungcompany.com`,
