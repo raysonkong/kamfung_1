@@ -8,7 +8,7 @@ const Products = () => (
   <Layout>
     <Seo title="products" />
 
-    <h2>Payment Method</h2>
+    <h4>Payment Method</h4>
     <ul>
       <li>Visa/Mastercard/EPS/Cash</li>
     </ul>
