@@ -7,40 +7,45 @@ import Layout from "../../components/layout"
 import Seo from "../../components/seo"
 import '.././all_pages.css'
 
-const Template = () => (
+const Herbs = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>魚翅</h1>
+    <h1>藥材</h1>
     <div className="products">
-      <div>
+        <div className="product">
+          <h3>Product 1</h3>
+          <h2>HKD xxx</h2>
+          <StaticImage 
+           src="../../images/product_1/sample.jpeg" 
+
+           alt="saple"
+          />
+          <p>-------------------------</p>
+        </div>
 
         <div className="product">
           <h3>Product 1</h3>
+          <h2>HKD xxx</h2>
           <StaticImage 
            src="../../images/product_1/sample.jpeg" 
 
            alt="saple"
           />
+          <p>-------------------------</p>
         </div>
 
-        <div>
-          <h3 className="product">Product 2</h3>
+        <div className="product">
+          <h3>Product 1</h3>
+          <h2>HKD xxx</h2>
           <StaticImage 
            src="../../images/product_1/sample.jpeg" 
+
            alt="saple"
           />
-        </div>
-      
-      <div>
-        <h3 className="product">Product 3</h3>
-        <StaticImage 
-         src="../../images/product_1/sample.jpeg" 
-         alt="saple"
-        />
-      </div>
-      </div>
-    
+          <p>-------------------------</p>
+        </div>  
     </div>
+
 
 
 
@@ -48,4 +53,4 @@ const Template = () => (
   </Layout>
 )
 
-export default Template;
+export default Herbs;

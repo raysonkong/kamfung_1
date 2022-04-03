@@ -10,7 +10,7 @@ import '.././all_pages.css'
 const Ginseng = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>Ginseng</h1>
+    <h1>人參</h1>
     <div className="products">
         <div className="product">
           <h3>Product 1</h3>

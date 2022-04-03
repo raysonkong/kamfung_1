@@ -10,7 +10,7 @@ import '.././all_pages.css'
 const Abalone = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>Abalone</h1>
+    <h1>鮑魚</h1>
 
    <div className="products">
        <div className="product">

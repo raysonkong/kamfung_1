@@ -7,10 +7,10 @@ import Layout from "../../components/layout"
 import Seo from "../../components/seo"
 import '.././all_pages.css'
 
-const Cucumber = () => (
+const WateredCucumber = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>海參</h1>
+    <h1>專人浸發海參</h1>
 
    <div className="products">
        <div className="product">
@@ -53,4 +53,4 @@ const Cucumber = () => (
   </Layout>
 )
 
-export default Cucumber;
+export default WateredCucumber;

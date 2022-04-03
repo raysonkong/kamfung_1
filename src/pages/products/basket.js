@@ -10,7 +10,7 @@ import '.././all_pages.css'
 const Basket = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>Baskets</h1>
+    <h1>送禮/結婚 花籃</h1>
 
     <div className="products">
         <div className="product">

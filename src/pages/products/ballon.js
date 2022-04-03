@@ -10,7 +10,7 @@ import '.././all_pages.css'
 const Ballon = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>Ballon</h1>
+    <h1>花膠</h1>
 
     <div className="products">
         <div className="product">

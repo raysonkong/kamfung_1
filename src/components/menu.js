@@ -19,9 +19,9 @@ const Menu = () => (
 
   }}>
   
-    <li><Link to="/">Home</Link></li>
-    <li><Link to="/products">Products</Link></li>
-    <li><Link to="/about">About</Link></li>
+    <li><Link to="/">主頁</Link></li>
+    <li><Link to="/products">產品目錄</Link></li>
+    <li><Link to="/about">聯絡我們</Link></li>
     
 
   </ul>

@@ -10,7 +10,7 @@ import '.././all_pages.css'
 const Cordyceps = () => (
   <Layout>
     <Seo title="Product" />
-    <h1>Cordyceps</h1>
+    <h1>冬蟲草</h1>
 
     <div className="products">
         <div className="product">
