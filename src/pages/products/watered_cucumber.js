@@ -14,37 +14,22 @@ const WateredCucumber = () => (
 
    <div className="products">
        <div className="product">
-         <h3>Product 1</h3>
-         <h2>HKD xxx</h2>
+         <h3>黃肉參</h3>
+         <h2>HKD 1,680 - 2,080 一斤 </h2>
+         <p>浸發花膠過程繁複, 如無經驗及專業知識, </p>
+         <p>一般人很難把花膠浸發好, 然而浪費上等高級食材 </p>
+         <p>現在Jenny有專人替你浸發花膠, 讓你即買即煮即食,無需操心</p>
          <StaticImage 
-          src="../../images/product_1/sample.jpeg" 
+          src="../../images/watered_cucumber/watered_cucumber_1.JPG" 
 
           alt="saple"
+
+          width="400"
          />
          <p>-------------------------</p>
        </div>
 
-       <div className="product">
-         <h3>Product 1</h3>
-         <h2>HKD xxx</h2>
-         <StaticImage 
-          src="../../images/product_1/sample.jpeg" 
-
-          alt="saple"
-         />
-         <p>-------------------------</p>
-       </div>
-
-       <div className="product">
-         <h3>Product 1</h3>
-         <h2>HKD xxx</h2>
-         <StaticImage 
-          src="../../images/product_1/sample.jpeg" 
-
-          alt="saple"
-         />
-         <p>-------------------------</p>
-       </div>  
+      
    </div>
 
 

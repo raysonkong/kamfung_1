@@ -20,6 +20,7 @@ const Template = () => (
            src="../../images/product_1/sample.jpeg" 
 
            alt="saple"
+           width="100"
           />
           <p>-------------------------</p>
         </div>
