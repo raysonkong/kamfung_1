@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `錦峰公司`,
-    description: `Chinese Herbs and cool stuff.`,
+    title: `錦鋒公司`,
+    description: `鮑參翅肚 燕窩蟲草 參茸海味 結婚送禮`,
     author: `@KamFungCompany`,
     siteUrl: `https://www.kamfungcompany.com`,
   },

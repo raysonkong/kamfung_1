@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>錦峰公司</h1>
+    <h1>錦鋒公司</h1>
     <h2>Kam Fung Ginseng, Seafood and Herbs!</h2>
     <h4>經營</h4>
     <h4>鮑參翅肚 燕窩蟲草</h4>
@@ -26,7 +26,7 @@ const IndexPage = () => (
     </div>
   
     <h3>創辦人: Jenny Lam</h3>
-    <p>本公司由Jenny Lam 於2019年創辦 , 希望將參茸海味推廣給廣大市民, 致力提供最好的服務, 讓大家買到 價錢合理質素高的產品</p>
+    <p>錦鋒公司由Jenny Lam 於2019年創辦 , 希望將參茸海味推廣給廣大市民, 致力提供最好的服務, 讓大家買到 價錢合理質素高的產品</p>
 
     <h3>歡迎親臨本公司</h3>
     <p>地址 香港葵涌梨木道 32-50號 金運工業大廈 2座11樓E室</p>
