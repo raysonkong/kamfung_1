@@ -17,7 +17,9 @@ const AboutPage = () => (
       <li>tel: 2633-2021</li>
       <li>tel/Whatsap/WeChat: 9367-8821 </li>
       <li>Email: kamfungcompany@gmail.com</li>
-      <li>地址 香港葵涌梨木道 32-50號 金運工業大廈 2座11樓E室</li>
+      <li>地址 香港葵涌梨木道 32-50號 金運工業大廈 2期11樓E室</li>
+      <li>Unit E, 11/F, Block 2, Kingswin Industrial Building, 32 Lei Muk Road, Kwai Chung, Hong Kong</li>
+
     </ul>
 
     <Link to="/">主頁</Link>

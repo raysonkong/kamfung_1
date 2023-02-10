@@ -29,7 +29,8 @@ const IndexPage = () => (
     <p>錦鋒公司由Jenny Lam 於2019年創辦 , 希望將參茸海味推廣給廣大市民, 致力提供最好的服務, 讓大家買到 價錢合理質素高的產品</p>
 
     <h3>歡迎親臨本公司</h3>
-    <p>地址 香港葵涌梨木道 32-50號 金運工業大廈 2座11樓E室</p>
+    <p>地址 香港葵涌梨木道 32-50號 金運工業大廈 2期11樓E室</p>
+    <p>Unit E, 11/F, Block 2, Kingswin Industrial Building, 32 Lei Muk Road, Kwai Chung, Hong Kong</p>
     <p>tel: 9367-8821</p>
     <p>敬請預約</p>
     <div>
